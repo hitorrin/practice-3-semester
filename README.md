@@ -1,1 +1,11 @@
 # practice-3-semester
+1.  [Задание 1.1](https://git.herzen.spb.ru/190499/practice_2-sem_3/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_1.1.docx)
+2.  [Задание 1.2: план](https://git.herzen.spb.ru/190499/practice_2-sem_3/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_1.2_%D0%BF%D0%BB%D0%B0%D0%BD.docx)
+3. [Задание 1.2: задание по теме 3](https://git.herzen.spb.ru/190499/practice_2-sem_3/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_1.2.docx)
+4. [Задание 1.3](https://git.herzen.spb.ru/190499/practice_2-sem_3/tree/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.3)
+5. [Задание 2.1: стендовый доклад](https://git.herzen.spb.ru/190499/practice_2-sem_3/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_2.1.pptx)
+6. [Задание 2.1: тема](https://git.herzen.spb.ru/190499/practice_2-sem_3/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_2.1_%D1%82%D0%B5%D0%BC%D0%B0.docx)
+7. [Задание 2.2](https://git.herzen.spb.ru/190499/practice_2-sem_3/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_2.2.docx)
+8. [Задание 2.3](https://git.herzen.spb.ru/190499/practice_2-sem_3/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_2.3.pptx)
+9. [Отчет](https://git.herzen.spb.ru/190499/practice_2-sem_3/blob/master/%D0%BE%D1%82%D1%87%D0%B5%D1%82_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F.docx)
+10.[Задание](https://git.herzen.spb.ru/190499/practice_2-sem_3/blob/master/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F.docx)
